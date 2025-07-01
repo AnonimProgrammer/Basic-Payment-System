@@ -1,4 +1,4 @@
-# 🧾 Basic Payment System - Microservices Architecture
+# 🧾 Simple Payment System
 
 A minimal microservices-based payment system built with **Spring Boot**, **RabbitMQ**, **Docker**, and **PostgreSQL**. The system demonstrates **event-driven communication** between decoupled services using RabbitMQ as a message broker.
 
